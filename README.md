@@ -3,7 +3,7 @@
 This repository contains the solution for Kaiburr's Task 1. 
 
 ## Prerequisites
-JDK 11 or higher 
+JDK 17
 IntelliJ IDEA (Community or Ultimate edition) 
 
 
